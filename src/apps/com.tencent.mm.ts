@@ -8,9 +8,7 @@ export default defineGkdApp({
       key: 0,
       name: '小程序-掌上公交-卡片广告',
       desc: '点击[广告]-点击[不感兴趣]-点击[与我无关]',
-      activityIds: [
-        '.plugin.appbrand.ui.AppBrandUI',
-      ],
+      activityIds: ['.plugin.appbrand.ui.AppBrandUI'],
       rules: [
         {
           key: 0,
